@@ -26,7 +26,7 @@ This is where I share my projects, experiments, and things I'm currently working
 | Category | Technologies |
 |---|---|
 | Languages | C, Python, Verilog, Java |
-| Hardware | Lattice CertusPro-NX 100, Zynq-7000, Kria KV260, Renesas RA8P1, RA6E2, Raspberry Pi |
+| Hardware | Lattice CertusPro-NX 100, Zynq-7000, Kria KV260, Renesas RA8P1, RA6E2, Raspberry Pi, Tang Nano 9K, Aries V2, ESP32 |
 | AI/ML | PyTorch, TensorFlow, ONNX, OpenCV |
 | Tools | Vivado, Lattice Radiant, e² studio, Cadence, Synopsys, Git |
 
