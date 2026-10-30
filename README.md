@@ -1,6 +1,16 @@
-# S S Jhotheeshwar
 
-Electronics Engineering student specializing in VLSI Design and Technology, with an interest in Edge AI, FPGA design, and embedded systems.
+
+# Hey there!
+
+I'm S S Jhotheeshwar, an Electronics Engineering student specializing in VLSI Design and Technology at Chennai Institute of Technology.
+
+I'm interested in building hardware and software systems, particularly in Edge AI, FPGA design, and embedded systems.
+
+I enjoy exploring how AI models can run efficiently on resource-constrained hardware, from FPGAs to microcontrollers.
+
+This is where I share my projects, experiments, and things I'm currently working on.
+
+---
 
 ## Areas of Interest
 - Edge AI
@@ -8,7 +18,7 @@ Electronics Engineering student specializing in VLSI Design and Technology, with
 - Embedded Systems
 - Communication Systems
 - On-Device AI
-- VLSI Design
+- VLSI Design (RTL to GDS)
 
 ## Tech Stack
 
@@ -25,4 +35,3 @@ Exploring Edge AI deployment, FPGA-based hardware acceleration, and VLSI design.
 
 ## Contact
 - Email: ssjhotheeshwar@gmail.com
-- LinkedIn: [LinkedIn Profile](link)
