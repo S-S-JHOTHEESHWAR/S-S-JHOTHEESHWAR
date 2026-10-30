@@ -8,7 +8,7 @@ I'm interested in building hardware and software systems, particularly in Edge A
 
 I enjoy exploring how AI models can run efficiently on resource-constrained hardware, from FPGAs to microcontrollers.
 
-I'm currently exploring job and internship opportunities where I can apply my skills, gain industry experience, and contribute to real-world projects.
+#### I'm currently exploring job and internship opportunities where I can apply my skills, gain industry experience, and contribute to real-world projects.
 
 This is where I share my projects, experiments, and things I'm currently working on.
 
