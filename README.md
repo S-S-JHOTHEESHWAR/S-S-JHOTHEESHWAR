@@ -2,7 +2,7 @@
 
 # Hey there! 
 
-I'm S S Jhotheeshwar, a pre-final-year Electronics Engineering student specializing in VLSI Design and Technology at Chennai Institute of Technology.
+I'm Jhotheeshwar, a pre-final-year Electronics Engineering student specializing in VLSI Design and Technology at Chennai Institute of Technology.
 
 I'm interested in building hardware and software systems, particularly in Edge AI, FPGA design, and embedded systems.
 
