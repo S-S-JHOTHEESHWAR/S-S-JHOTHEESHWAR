@@ -1,16 +1,28 @@
-## Hi there 👋
+# S S Jhotheeshwar
 
-<!--
-**S-S-JHOTHEESHWAR/S-S-JHOTHEESHWAR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Electronics Engineering student specializing in VLSI Design and Technology, with an interest in Edge AI, FPGA design, and embedded systems.
 
-Here are some ideas to get you started:
+## Areas of Interest
+- Edge AI
+- FPGA Design
+- Embedded Systems
+- Communication Systems
+- On-Device AI
+- VLSI Design
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tech Stack
+
+| Category | Technologies |
+|---|---|
+| Languages | C, Python, Verilog, Java |
+| Hardware | Lattice CertusPro-NX 100, Zynq-7000, Kria KV260, Renesas RA8P1, RA6E2, Raspberry Pi |
+| AI/ML | PyTorch, TensorFlow, ONNX, OpenCV |
+| Tools | Vivado, Lattice Radiant, e² studio, Cadence, Synopsys, Git |
+
+
+## Currently
+Exploring Edge AI deployment, FPGA-based hardware acceleration, and VLSI design.
+
+## Contact
+- Email: ssjhotheeshwar@gmail.com
+- LinkedIn: [LinkedIn Profile](link)
