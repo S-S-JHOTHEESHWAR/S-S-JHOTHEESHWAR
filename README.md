@@ -1,6 +1,6 @@
 
 
-# Hey there! 👋
+# Hey there! 
 
 I'm S S Jhotheeshwar, a pre-final-year Electronics Engineering student specializing in VLSI Design and Technology at Chennai Institute of Technology.
 
