@@ -1,6 +1,6 @@
 
 
-# Hey there! 
+# Here to Learn, Create, and Make a Difference
 
 I'm Jhotheeshwar, a pre-final-year Electronics Engineering student specializing in VLSI Design and Technology at Chennai Institute of Technology.
 
